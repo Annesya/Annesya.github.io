@@ -1,7 +1,7 @@
 ---
-title: "Co-Curricular Activities"
+title: "Activities"
 collection: activities
-type: "Co-curricular Activities"
+type: "Activities"
 permalink: /activities/activity
 venue: "UC San Francisco, Department of Testing"
 date: 2012-03-01
