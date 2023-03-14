@@ -22,4 +22,4 @@ Other than research, reading, experimentation, I am also very passionate about t
 When not busy with research, I love to go for short walks and easy hikes; listen to music; workout (a little bit); dance (a lot!); and exlore Boston. 
 
 
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![memories from my hikes in Fall ](/images/annesya_outdoors.jpeg)
