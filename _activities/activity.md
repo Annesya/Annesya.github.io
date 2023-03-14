@@ -1,6 +1,6 @@
 ---
 title: "Co-Curricular Activities"
-collection: talks
+collection: activities
 type: "Co-curricular Activities"
 permalink: /activities/activity
 venue: "UC San Francisco, Department of Testing"
