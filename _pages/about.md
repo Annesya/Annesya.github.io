@@ -15,5 +15,11 @@ Current Research
 
 In spite great success, current cochlear implants still fail to restore fully normal hearing perception, possibly (1) because of the suboptimal signal processing strategies (2) the brain pathway may not be able to adapt itself completely to the altered peripheral representation. Through developing neural network models of cochlear implant mediated auditory perception, my research aims to unveil the factors underlying the limitations of the current devices and help explore the space of optimal signal processing and stimulation strategies for improving the device performance. 
 
+Apart from Research
+====================
+Other than research, reading, experimentation, I am also very passionate about teaching, mentoring, science communication activities. I serve as the Mentoring Co-Chair in the Executive Board of Harvard Graduate Women in Science and Engineering (HGWISE) where we match graduate students with mentors from academia and industry to guide them in their desired career paths. 
+
+When not busy with research, I love to go for short walks and easy hikes; listen to music; workout (a little bit); dance (a lot!); and exlore Boston. 
+
 
 ![Editing a markdown file for a talk](/images/editing-talk.png)
