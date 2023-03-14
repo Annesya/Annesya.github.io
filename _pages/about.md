@@ -10,7 +10,8 @@ redirect_from:
 
 I am a PhD student in the program in Speech and Hearing Bioscience and Technology (SHBT) at Harvard University and advised by Dr. Josh McDermott at the Laboratory of Computational Audition at BCS, MIT. I am interested in everything hearing and brain. My research focuses on understanding auditory perception following hearing impairment and applying those insights in developing improved hearing prosthetics. During Fall'21, I worked in the Puria Otobiomechanics Lab at Mass. Eye and Ear where I helped in developing Simulation based Inference models for predicting finite element model parameters of mammalian middle and inner ear. During Spring'22, I was affilaited to Nakajima Lab where I developed middle ear microphones for fully-implantable cochlear implants. Before coming to Harvard in 2021, I received my Bachelors in Electronics and Telecommunication Engineering at Jadavpur University, India where I was working on developing drones with hearing capabilities. 
 
-**Current Research
+Current Research
+================
 
 In spite great success, current cochlear implants still fail to restore fully normal hearing perception, possibly (1) because of the suboptimal signal processing strategies (2) the brain pathway may not be able to adapt itself completely to the altered peripheral representation. Through developing neural network models of cochlear implant mediated auditory perception, my research aims to unveil the factors underlying the limitations of the current devices and help explore the space of optimal signal processing and stimulation strategies for improving the device performance. 
 
