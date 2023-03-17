@@ -15,6 +15,14 @@ Current Research
 
 In spite great success, current cochlear implants still fail to restore fully normal hearing perception, possibly (1) because of the suboptimal signal processing strategies (2) the brain pathway may not be able to adapt itself completely to the altered peripheral representation. Through developing neural network models of cochlear implant mediated auditory perception, my research aims to unveil the factors underlying the limitations of the current devices and help explore the space of optimal signal processing and stimulation strategies for improving the device performance. 
 
+Previous Research
+=================
+## Simulation based Inference for Finite Element Model Parameter Estimation
+As a Fall 2021 rotation student in the Puria Otobiomechanics Lab, Mass. Eye and Ear, I helped in developed a Simulation Based Inference (SBI) model to estimate the parameters of Finite Elememnt (FE) models of gerbil middle ear and cochlea. I also analyzed the sensitivity of the estimated parameters using standard error functions. 
+
+## Development of Middle Ear Microphones for Fully Implantable Cochlear Implants
+As a Spring 2022 rotation student in Nakajima lab, Mass. Eye and Ear, I was involved in developing and testing novel umbo (centre part of the ear drum) microphones that can be used for a fully-implantable cochlear implant. 
+
 Apart from Research
 ====================
 Other than research, reading, experimentation, I am also very passionate about teaching, mentoring, science communication activities. I serve as the Mentoring Co-Chair in the Executive Board of Harvard Graduate Women in Science and Engineering (HGWISE) where we match graduate students with mentors from academia and industry to guide them in their desired career paths. 
