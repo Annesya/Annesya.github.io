@@ -17,11 +17,11 @@ In spite great success, current cochlear implants still fail to restore fully no
 
 Previous Research
 =================
-## Simulation based Inference for Finite Element Model Parameter Estimation
-As a Fall 2021 rotation student in the Puria Otobiomechanics Lab, Mass. Eye and Ear, I helped in developed a Simulation Based Inference (SBI) model to estimate the parameters of Finite Elememnt (FE) models of gerbil middle ear and cochlea. I also analyzed the sensitivity of the estimated parameters using standard error functions. 
+## Middle-ear and Cochlear Model Parameter Estimation with Simulation based Inference
+Finite Element (FE) models of the ears have been used to explain experimental data and predict system behavior under circumstances that cannot be studied experimentally due to measurement limitations. One crucial step in developing these models is to assign physical parameters to different components of the models. Mechanical parameters of auditory tissues are either not reported in the literature or reported in a wide range, due to the different experimental methods or inevitable inter-subject variabilities. So far, these parameter identifications have been via time-consuming and laborious subjective sensitivity analysis methods. This project proposed to utilize the pattern-recognition power of Neural Networks (NN), particularly, the Simulation-Based Inference (SBI) approach (Gonçalves et al., 2020, eLife), to accelerate the process of accurate objective parameter estimation for the human middle ear and gerbil inner ear FE models. 
 
-## Development of Middle Ear Microphones for Fully Implantable Cochlear Implants
-As a Spring 2022 rotation student in Nakajima lab, Mass. Eye and Ear, I was involved in developing and testing novel umbo (centre part of the ear drum) microphones that can be used for a fully-implantable cochlear implant. 
+## Design and Testing of Fully-Implantable Middle Ear Microphone
+Cochlear implants (CI) have been a very successful hearing-assistive device with approximately 736,900 users worldwide, as of December 2019. However, the external microphones that CI devices use is limited by their cosmetic and functional drawbacks. To overcome such limitations, this project proposes a fully-implantable middle ear microphone called the Drum-mic that will be utilized to transduce the motion of the umbo (the point where the bottom end of the manubrium forms the center of the eardrum) to electrical signals to be fed to the CI processor. Such implantable design will also be helpful to employ the direction-sensitive filtering effect of the pinna to render naturalistic sound perception. While many other implantable microphones like the Envoy Esteem detect motion of the incus through point contact with a needle, the drum-mic is robust and compliant enough to directly capture the motion of the umbo where motion is large and mostly one-dimensional. 
 
 Apart from Research
 ====================
