@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the program in [Speech and Hearing Bioscience and Technology] (https://shbtphd.hms.harvard.edu/) (SHBT) at Harvard University and advised by Dr. Josh McDermott in the [Laboratory of Computational Audition] (http://mcdermottlab.mit.edu/) at BCS, MIT. I am interested in everything related to hearing and brain. My research focuses on understanding auditory perception following hearing impairment and applying those insights in developing improved hearing prosthetics. Before coming to Harvard in 2021, I received my Bachelors degree in Electronics and Telecommunication Engineering from [Jadavpur University] (http://www.jaduniv.edu.in/), India where I was working on developing drones with hearing capabilities. For details about my undergraduate projects, please visit [here] (https://banerjeeannesya199.wixsite.com/i-am-annesya)
+I am a PhD student in the program in [Speech and Hearing Bioscience and Technology](https://shbtphd.hms.harvard.edu/) (SHBT) at Harvard University and advised by Dr. Josh McDermott in the [Laboratory of Computational Audition](http://mcdermottlab.mit.edu/) at BCS, MIT. I am interested in everything related to hearing and brain. My research focuses on understanding auditory perception following hearing impairment and applying those insights in developing improved hearing prosthetics. Before coming to Harvard in 2021, I received my Bachelors degree in Electronics and Telecommunication Engineering from [Jadavpur University](http://www.jaduniv.edu.in/), India where I was working on developing drones with hearing capabilities. For details about my undergraduate projects, please visit [here](https://banerjeeannesya199.wixsite.com/i-am-annesya)
 
 Current Research
 ================
