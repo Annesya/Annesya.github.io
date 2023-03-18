@@ -28,11 +28,11 @@ Cochlear implants (CI) have been a very successful hearing-assistive device with
 
 STEM Advocacy and Outreach
 ============================
-Other than research, reading, experimentation, I am also very passionate about teaching, mentoring, and science communication activities. I serve as the Mentoring Co-Chair in the Executive Board of Harvard Graduate Women in Science and Engineering (HGWISE) where we match graduate students with mentors from academia and industry to guide them in their desired career paths. 
+I am very passionate about science communication and mentoring activities. I serve as the Mentoring Co-Chair of [Harvard Graduate Women in Science and Engineering](https://projects.iq.harvard.edu/hgwise/home) (HGWISE) where I help in matching graduate students with mentors from academia and industry to guide them in their desired career paths. I am also the Seminar Coordinator for [Science in The News](https://sitn.hms.harvard.edu/) (SITN) Seminar Series. Throughout my undergraduate and graduate years so far, I have been extensively involved in the role of STEM educator at [Program of Ragon and IMES in Science and Medicine](https://ragoninstitute.org/ragon-life/prism-science-club-launched/) (PRISM) science club, [Jadavpur University Science Club](https://www.jusc.co.in/).  
 
 Apart from Research
 ====================
-When not busy with research, I love to go for short walks and easy hikes; listen to music; workout (a little bit); dance (a lot!); and exlore Cambridge and Boston. 
+When not busy with research, I love to go for short walks and easy hikes; listen to music; workout (a little bit); dance (a lot!); and explore beautiful Boston and Cambridge. 
 
 
 ![memories from my hikes in Fall ](/images/annesya_outdoors.jpeg)
