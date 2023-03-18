@@ -1,7 +1,7 @@
 ---
 title: "A novel sound source localization method using a global-best guided cuckoo search algorithm for drone based search and rescue operations."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/paper_1
 excerpt: 'Keywords: Unmanned aerial vehicles; Sound source localization; Ego noise; Time difference of arrival; Cuckoo search algorithm; Generalized cross correlation'
 date: 2021-01-21
 venue: 'In Unmanned Aerial Systems: Theoretical Foundation and Applications, Elsevier.'
