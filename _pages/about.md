@@ -34,7 +34,7 @@ I am a strong believer in "Open Science". I try to put all possible efforts for 
 
 Apart from Research
 ====================
-Outside research, I love to go for short walks and easy hikes; listen to music; workout (a little bit); dance (a lot!); and explore the beautiful Boston and Cambridge. [Below is a picture from my Acadia trip in Fall 2022 - hope you like it!]
+Outside research, I love to go for short walks and easy hikes; listen to music; workout (a little bit); dance (a lot!); and explore the beautiful Boston and Cambridge. Below is a picture from my Acadia trip in Fall 2022 - hope you like it :)
 
 
 ![memories from my hikes in Fall ](/images/annesya_outdoors.jpeg)
