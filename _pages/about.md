@@ -28,7 +28,9 @@ Cochlear implants (CI) have been a very successful hearing-assistive device with
 
 STEM Advocacy and Outreach
 ============================
-I am very passionate about science communication and mentoring activities. I serve as the Mentoring Co-Chair of [Harvard Graduate Women in Science and Engineering](https://projects.iq.harvard.edu/hgwise/home) (HGWISE) where I help in matching graduate students with mentors from academia and industry to guide them in their desired career paths. I am also the Seminar Coordinator for [Science in The News](https://sitn.hms.harvard.edu/) (SITN) Seminar Series. Throughout my undergraduate and graduate years so far, I have been extensively involved in the role of STEM educator at [Program of Ragon and IMES in Science and Medicine](https://ragoninstitute.org/ragon-life/prism-science-club-launched/) (PRISM) science club, [Jadavpur University Science Club](https://www.jusc.co.in/).  
+I am very passionate about science communication and mentoring activities. I serve as the Mentoring Co-Chair of [Harvard Graduate Women in Science and Engineering](https://projects.iq.harvard.edu/hgwise/home) (HGWISE) where I help in matching graduate students with mentors from academia and industry to guide them in their desired career paths. I am also the Seminar Coordinator for [Science in The News](https://sitn.hms.harvard.edu/) (SITN) Seminar Series. Throughout my undergraduate and graduate years so far, I have been extensively involved in the role of STEM educator at [Program of Ragon and IMES in Science and Medicine](https://ragoninstitute.org/ragon-life/prism-science-club-launched/) (PRISM) science club, [Jadavpur University Science Club](https://www.jusc.co.in/).  I feel very fortunate to have the opprtunity to mentor >100 high school students and >150 undergraduates (in groups) so far in different science and enginnering topics. I am very excited to serve as a Research Mentor in summer 2023 for the [MIT Summer Research Program in Neuroscience](https://bcs.mit.edu/msrp).
+
+
 
 Apart from Research
 ====================
