@@ -39,4 +39,4 @@ Apart from Research
 When not busy in research, I love to go for short walks and easy hikes; listen to music; workout (a little bit); dance (a lot!); and explore the beautiful Boston and Cambridge. 
 
 
-![memories from my hikes in Fall ](/images/annesya_outdoors.jpeg)
+![memories from my hikes in Fall ](/images/annesya_outdoors.jpg)
