@@ -36,7 +36,7 @@ I am a strong believer in "Accessible Science". I try to put all possible effort
 
 Apart from Research
 ====================
-When not busy in research, I love to go for short walks and easy hikes; listen to music; workout (a little bit); dance (a lot!); and explore the beautiful Boston and Cambridge. Here is a picture from my amazing Acadia trip in Fall 2022 - hope you like it :)
+When not busy in research, I love to go for short walks and easy hikes; listen to music; workout (a little bit); dance (a lot!); and explore the beautiful Boston and Cambridge. 
 
 
 ![memories from my hikes in Fall ](/images/annesya_outdoors.jpeg)
