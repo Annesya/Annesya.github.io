@@ -21,6 +21,7 @@ Current Research
 ================
 ## Understanding and Optimizing Cochlear Implants using Machine Learning
 Cochlear Implants (CIs) are one of the most successful neural prostheses in the world. In spite great success, current CIs still fail to restore fully normal hearing perception, possibly (1) because of the suboptimal signal processing strategies being used to convert sound signals into electrical stimulation (2) the brain pathway may not be able to adapt itself completely to the altered peripheral representation. Testing these hypotheses directly on CI users is technically challenging. My research focuses on developing neural network models of CI mediated hearing perception. Models that can accurately predict what a person hears with CI input may help us better understand the different factors contributing to the successes and limitations of current CIs and efficiently explore the optimal space of CI signal processing and stimulation strategies.
+If you are interested to know more about my research work, please take a look at one of my [recent presentations](https://youtu.be/hcYubkY1paI) or a [recent abstract](https://2024.ccneuro.org/pdf/477_Paper_authored_Banerjee_CCN_2024_Abstract_04192024_Final.pdf) about my work. 
 
 Previous Research
 =================
